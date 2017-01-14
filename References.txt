@@ -1,0 +1,5 @@
+1. http://flowingdata.com/2011/05/05/where-do-major-airlines-fly-in-the-united-states/
+2. http://flowingdata.com/2014/02/05/where-people-run/
+3. https://developers.google.com/maps/
+4. http://r4ds.had.co.nz/eda.html
+5. ggplot2 book by Hadley Wickham published by Springer
